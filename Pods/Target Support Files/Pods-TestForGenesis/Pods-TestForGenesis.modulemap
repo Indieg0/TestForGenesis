@@ -1,0 +1,6 @@
+framework module Pods_TestForGenesis {
+  umbrella header "Pods-TestForGenesis-umbrella.h"
+
+  export *
+  module * { export * }
+}
